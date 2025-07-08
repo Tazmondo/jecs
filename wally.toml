@@ -1,6 +1,6 @@
 [package]
-name = "ukendio/jecs"
-version = "0.8.1"
+name = "tazmondo/jecs"
+version = "0.8.1+1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
